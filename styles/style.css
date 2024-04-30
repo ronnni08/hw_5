@@ -1,0 +1,9 @@
+img {
+    width: 25%;
+}
+body {
+    font-size: 0;
+}
+div {
+    box-shadow: 5px 3px 4px 2px darkgray;
+}
